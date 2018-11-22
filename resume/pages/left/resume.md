@@ -1,7 +1,7 @@
 ---
 title: 我的简历 | 吴海水
 name: 吴海水
-description: 有耐心，肯专研，学习能力强
+description: 有耐心，肯专研<br/>学习能力强
 
 baseinfo_name: "基本信息"
 baseinfo:
@@ -9,12 +9,12 @@ baseinfo:
     - line: "性别：男"
 contact_name: "联系方式"
 contact: 
-    - line: "邮箱：wuhaishui2013@126.com"
-    - line: "手机：17601397232"
+    - line: "wuhaishui2013@126.com"
+    - line: "17601397232"
 social_name: "社交信息"
 social:
     - line: "微信：17601397232"
-    - line: "QQ：1608529744"
+    - line: "&ensp;QQ：1608529744"
 
 sitemap:
     changefreq: weekly
