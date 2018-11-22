@@ -16,5 +16,6 @@ docker run -d --name resume \
 </pre>
 在线密码生成器 [http://www.sha1-online.com](http://www.sha1-online.com)<br/>
 
-
+## 在线访问简历
+[http://45.62.122.49:8080](http://45.62.122.49:8080)
 
