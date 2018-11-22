@@ -1,7 +1,7 @@
 ---
 title: 个人经历
 icon: book
-date: 21:35 10/22/2018
+date: 14:53 10/22/2018
 taxonomy:
     category: right
 ---

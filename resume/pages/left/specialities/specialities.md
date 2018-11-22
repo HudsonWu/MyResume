@@ -8,11 +8,11 @@ specialities:
     level_name: 95
     level: 95
     animation: bounceIn
-  - name: sql
+  - name: python
     level_name: 90
     level: 90
     animation: bounceIn
-  - name: python
+  - name: sql
     level_name: 90
     level: 90
     animation: bounceIn

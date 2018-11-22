@@ -1,7 +1,7 @@
 ---
 title: 个人简介
 icon: torso
-date: 21:21 10/22/2018
+date: 16:35 10/22/2018
 taxonomy:
     category: left
 ---
