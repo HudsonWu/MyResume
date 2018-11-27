@@ -5,7 +5,7 @@ description: 有耐心，肯专研<br/>学习能力强
 
 baseinfo_name: "基本信息"
 baseinfo:
-    - line: "出生于1995年9月"
+    - line: "出生于1995年10月"
     - line: "性别：男"
 contact_name: "联系方式"
 contact: 

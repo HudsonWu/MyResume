@@ -11,7 +11,7 @@ interests:
       activity: javascript
       animation: bounceIn
     - icon: shield
-      activity: php
+      activity: kubernetes
       animation: bounceIn
     - icon: paint-bucket
       activity: Docker 
